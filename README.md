@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Inogen
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on ...
+- 📫 you can just email me on limbuinogen@gmail.com or visit https://inwp.github.io
